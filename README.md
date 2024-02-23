@@ -1,4 +1,9 @@
-# Azure Machine Learning - Automatizado
+<div align="center">
+ 
+ <h1>Azure Machine Learning - Automatizado</h1>
+ 
+</div>
+
 Vou guiá-lo através dos passos para criar um modelo de previsão com os pontos de extremidade configurados na plataforma Azure Machine Learning.
 
  <p align="center">
@@ -8,6 +13,9 @@ Vou guiá-lo através dos passos para criar um modelo de previsão com os pontos
 </p>
 
 ![_1b5951ac-30f4-4064-8710-821e3d6a4382](https://github.com/augustomiller/ML_Azure_automated/assets/990877/7d2b8976-e462-4311-9af1-2240998715c1)
+<p align="center">
+O Azure Machine Learning irá treinar e avaliar modelos automaticamente com base nos parâmetros especificados.
+</p>
 
 ## Tecnologias
 
