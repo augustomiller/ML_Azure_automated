@@ -31,7 +31,7 @@ O Azure Machine Learning irá treinar e avaliar modelos automaticamente com base
 - [Microsoft Copilot Doc](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
 - [VS Code Doc](https://code.visualstudio.com/Docs)
 - [Bash Doc](https://www.gnu.org/software/bash/manual/bash.html)
-- [Git](https://git-scm.com/doc)
+- [Git Doc](https://git-scm.com/doc)
 - [Markdown Doc](https://google.github.io/styleguide/docguide/style.html)
 
 ## Vamos lá 🚀
