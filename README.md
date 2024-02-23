@@ -14,6 +14,7 @@ Vou guiá-lo através dos passos para criar um modelo de previsão com os pontos
 
 - [Azure Machine Learning](https://azure.microsoft.com/pt-br/free/machine-learning/search/?ef_id=_k_6cd5b45a590d1bb5cc07d1835eb85881_k_&OCID=AIDcmmzmnb0182_SEM__k_6cd5b45a590d1bb5cc07d1835eb85881_k_&msclkid=6cd5b45a590d1bb5cc07d1835eb85881)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
+- [VS Code](https://code.visualstudio.com/)
 - [Bash](https://www.gnu.org/software/bash/)
 - [Git](https://git-scm.com/)
 
@@ -21,6 +22,7 @@ Vou guiá-lo através dos passos para criar um modelo de previsão com os pontos
 
 - [Azure ML Doc](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2)
 - [Microsoft Copilot Doc](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+- [VS Code Doc](https://code.visualstudio.com/Docs)
 - [Bash Doc](https://www.gnu.org/software/bash/manual/bash.html)
 - [Git](https://git-scm.com/doc)
 - [Markdown Doc](https://google.github.io/styleguide/docguide/style.html)
