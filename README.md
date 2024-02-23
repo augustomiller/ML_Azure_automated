@@ -4,7 +4,7 @@ Vou guiá-lo através dos passos para criar um modelo de previsão com os pontos
  <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Vamos lá">Vamos lá</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Vamos lá 🚀">Vamos lá</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
 
