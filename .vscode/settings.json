@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": true,
+    "explorer.confirmDelete": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.suggestSelection": "first",
+    "breadcrumbs.enabled": true
+}
